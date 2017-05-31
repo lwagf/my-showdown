@@ -1,0 +1,187 @@
+=== [gen7monotype] monotype 3 ===
+
+Togekiss @ Choice Scarf
+Ability: Serene Grace
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Air Slash
+- Dazzling Gleam
+- Flamethrower
+- Trick
+
+Charizard-Mega-Y @ Charizardite Y
+Ability: Blaze
+Shiny: Yes
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Flamethrower
+- Solar Beam
+- Focus Blast
+- Roost
+
+Skarmory @ Leftovers
+Ability: Sturdy
+EVs: 224 HP / 252 Def / 32 SpD
+Impish Nature
+- Defog
+- Iron Head
+- Roost
+- Whirlwind
+
+Zapdos @ Leftovers
+Ability: Pressure
+EVs: 252 HP / 184 SpD / 72 Spe
+Timid Nature
+IVs: 0 Atk
+- Discharge
+- Substitute
+- Toxic
+- Roost
+
+Mantine @ Leftovers
+Ability: Water Absorb
+EVs: 252 HP / 240 Def / 16 SpD
+Calm Nature
+IVs: 0 Atk
+- Scald
+- Haze
+- Defog
+- Roost
+
+Gliscor @ Toxic Orb
+Ability: Poison Heal
+Shiny: Yes
+EVs: 244 HP / 208 SpD / 56 Spe
+Careful Nature
+- Stealth Rock
+- Taunt
+- Earthquake
+- Roost
+
+
+=== [gen7monotype] monotype 2 ===
+
+Gengar @ Life Orb
+Ability: Cursed Body
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Shadow Ball
+- Sludge Wave
+- Destiny Bond
+- Will-O-Wisp
+
+Mimikyu @ Ghostium Z
+Ability: Disguise
+Shiny: Yes
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Swords Dance
+- Play Rough
+- Shadow Sneak
+- Shadow Claw
+
+Sableye-Mega @ Sablenite
+Ability: Prankster
+EVs: 252 HP / 112 Def / 144 SpD
+Careful Nature
+- Will-O-Wisp
+- Foul Play
+- Recover
+- Knock Off
+
+Jellicent (F) @ Leftovers
+Ability: Water Absorb
+EVs: 248 HP / 252 SpD / 8 Spe
+Calm Nature
+IVs: 0 Atk
+- Acid Armor
+- Toxic
+- Recover
+- Scald
+
+Marowak-Alola @ Thick Club
+Ability: Lightning Rod
+Shiny: Yes
+EVs: 48 HP / 252 Atk / 4 Def / 204 Spe
+Adamant Nature
+- Stealth Rock
+- Earthquake
+- Flare Blitz
+- Shadow Bone
+
+Dhelmise @ Assault Vest
+Ability: Steelworker
+EVs: 248 HP / 252 Atk / 8 SpD
+Adamant Nature
+- Power Whip
+- Earthquake
+- Rapid Spin
+- Anchor Shot
+
+
+=== [gen7monotype] monotype 1 ===
+
+Beedrill @ Beedrillite
+Ability: Swarm
+Shiny: Yes
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- U-turn
+- Poison Jab
+- Drill Run
+- Fell Stinger
+
+Toxapex @ Black Sludge
+Ability: Regenerator
+EVs: 248 HP / 252 Def / 8 SpD
+Bold Nature
+IVs: 0 Atk
+- Scald
+- Toxic Spikes
+- Recover
+- Haze
+
+Gengar @ Life Orb
+Ability: Cursed Body
+Shiny: Yes
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Shadow Ball
+- Sludge Wave
+- Will-O-Wisp
+- Taunt
+
+Muk-Alola @ Assault Vest
+Ability: Poison Touch
+Shiny: Yes
+EVs: 248 HP / 12 Def / 248 SpD
+Careful Nature
+- Knock Off
+- Pursuit
+- Poison Jab
+- Shadow Sneak
+
+Nidoking @ Life Orb
+Ability: Sheer Force
+Shiny: Yes
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Stealth Rock
+- Earth Power
+- Ice Beam
+- Flamethrower
+
+Amoonguss @ Black Sludge
+Ability: Regenerator
+EVs: 248 HP / 44 Def / 216 SpD
+Calm Nature
+IVs: 0 Atk
+- Spore
+- Giga Drain
+- Sludge Bomb
+- Hidden Power [Fire]
