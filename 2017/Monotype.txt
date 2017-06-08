@@ -1,3 +1,61 @@
+=== [gen7monotype] monotype 5 ===
+
+Dragonite @ Choice Band
+Ability: Multiscale
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Outrage
+- Extreme Speed
+- Iron Head
+- Fire Punch
+
+Latios @ Life Orb
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Psyshock
+- Draco Meteor
+- Defog
+- Hidden Power [Fire]
+
+Kyurem-Black @ Life Orb
+Ability: Teravolt
+EVs: 252 Atk / 4 SpA / 252 Spe
+Naughty Nature
+- Outrage
+- Ice Beam
+- Fusion Bolt
+- Earth Power
+
+Salamence @ Dragonium Z
+Ability: Moxie
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Dragon Dance
+- Iron Tail
+- Outrage
+- Earthquake
+
+Garchomp @ Life Orb
+Ability: Rough Skin
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Swords Dance
+- Earthquake
+- Dragon Claw
+- Fire Fang
+
+Goodra @ Assault Vest
+Ability: Sap Sipper
+EVs: 248 HP / 8 Atk / 252 SpA
+Quiet Nature
+- Dragon Pulse
+- Sludge Bomb
+- Flamethrower
+- Earthquake
+
+
 === [gen7monotype] monotype 3 ===
 
 Togekiss @ Choice Scarf

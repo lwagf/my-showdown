@@ -1,3 +1,66 @@
+=== [gen7ou] rain ===
+
+Tapu Koko @ Fairium Z
+Ability: Electric Surge
+Shiny: Yes
+EVs: 252 SpA / 252 Spe
+Timid Nature
+- Thunder
+- Dazzling Gleam
+- U-turn
+- Volt Switch
+
+P E E K O (Pelipper) @ Damp Rock
+Ability: Drizzle
+Shiny: Yes
+EVs: 248 HP / 196 Def / 64 SpD
+Bold Nature
+- Scald
+- Hurricane
+- U-turn
+- Roost
+
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+Shiny: Yes
+EVs: 252 HP / 88 Def / 168 SpD
+Impish Nature
+IVs: 0 Spe
+- Spikes
+- Leech Seed
+- Gyro Ball
+- Knock Off
+
+Kingdra @ Choice Specs
+Ability: Swift Swim
+Shiny: Yes
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Hydro Pump
+- Surf
+- Draco Meteor
+- Ice Beam
+
+Swampert @ Swampertite
+Ability: Damp
+Shiny: Yes
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature
+- Waterfall
+- Earthquake
+- Ice Punch
+- Power-Up Punch
+
+Landorus-Therian @ Yache Berry
+Ability: Intimidate
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Earthquake
+- Knock Off
+- Swords Dance
+- Stealth Rock
+
+
 === [gen7ou] Untitled 32 ===
 
 Charizard @ Charizardite Y
