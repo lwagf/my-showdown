@@ -1,3 +1,124 @@
+=== [gen7ou] nov2017 ===
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Shiny: Yes
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Dragon Dance
+- Stone Edge
+- Ice Punch
+- Earthquake
+
+Tapu Koko @ Zap Plate
+Ability: Electric Surge
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Thunderbolt
+- Dazzling Gleam
+- Volt Switch
+- Hidden Power [Ice]
+
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+EVs: 252 HP / 48 Def / 208 SpD
+Careful Nature
+- Spikes
+- Leech Seed
+- Power Whip
+- Protect
+
+Landorus-Therian @ Leftovers
+Ability: Intimidate
+EVs: 252 HP / 216 Def / 24 SpD / 16 Spe
+Impish Nature
+- Stealth Rock
+- Earthquake
+- Hidden Power [Ice]
+- U-turn
+
+Latios @ Soul Dew
+Ability: Levitate
+Shiny: Yes
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Draco Meteor
+- Psyshock
+- Recover
+- Calm Mind
+
+Hawlucha @ Electric Seed
+Ability: Unburden
+Shiny: Yes
+EVs: 104 HP / 252 Atk / 152 Spe
+Adamant Nature
+- Acrobatics
+- Swords Dance
+- High Jump Kick
+- Drain Punch
+
+
+=== [gen7ou] nov2017 2 ===
+
+Tyranitar @ Tyranitarite
+Ability: Sand Stream
+Shiny: Yes
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Dragon Dance
+- Stone Edge
+- Ice Punch
+- Earthquake
+
+Excadrill @ Life Orb
+Ability: Sand Rush
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Earthquake
+- Iron Head
+- Rock Slide
+- Rapid Spin
+
+Landorus-Therian @ Leftovers
+Ability: Intimidate
+EVs: 252 HP / 216 Def / 24 SpD / 16 Spe
+Impish Nature
+- Stealth Rock
+- Earthquake
+- Hidden Power [Ice]
+- U-turn
+
+Latios @ Soul Dew
+Ability: Levitate
+Shiny: Yes
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+IVs: 0 Atk
+- Draco Meteor
+- Psyshock
+- Recover
+- Surf
+
+Zapdos @ Leftovers
+Ability: Pressure
+Shiny: Yes
+EVs: 248 HP / 8 Def / 252 Spe
+Timid Nature
+- Discharge
+- Hidden Power [Ice]
+- Heat Wave
+- Roost
+
+Tapu Bulu @ Assault Vest
+Ability: Grassy Surge
+EVs: 248 HP / 60 Atk / 56 SpD / 144 Spe
+Adamant Nature
+- Horn Leech
+- Wood Hammer
+- Superpower
+- Nature's Madness
+
+
 === [gen7ou] rain ===
 
 Tapu Koko @ Fairium Z
